@@ -4,19 +4,9 @@
 
 **Difficulty**: Easy
 
-**Challenge Link**: [Join](https://tryhackme.com/jr/thedevsmistake)
+**Challenge Link**: https://tryhackme.com/jr/thedevsmistake
 
 `This room is still submitted for overview, don't know when it will be public`
-
----
-
-
-## Let's start
-
-To start the challenge:
-
-**Join the Room**: Use this link to access:
-  https://tryhackme.com/jr/thedevsmistake
 
 ---
 
